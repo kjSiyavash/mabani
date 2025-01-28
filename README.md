@@ -8,5 +8,5 @@ SIYAVASH
    ```
 3.اجرای برنامه
    ```
-   python todo_app.py
+   python index.py
    ```
